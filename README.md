@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
-<img align="right" alt="coding" width="400" src="rrr.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi20005&label=Profile%20views&color=0e75b6&style=flat" alt="khushi20005" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi20005" alt="khushi20005" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 - 🔭 I’m currently working on Python. **Quiz Game using Python.**
 
 - 🌱 I’m currently learning **Pandas.**
