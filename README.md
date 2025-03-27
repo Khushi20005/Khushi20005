@@ -1,3 +1,4 @@
+![logo](https://github.com/Khushi20005/Khushi20005/blob/main/Git-Banner.png.png)
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
