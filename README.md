@@ -1,6 +1,6 @@
 ![logo](https://github.com/Khushi20005/Khushi20005/blob/main/Git-Banner.png.png)
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+<h3 align="center">A passionate Data Analytics from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi20005&label=Profile%20views&color=0e75b6&style=flat" alt="khushi20005" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi20005" alt="khushi20005" /></a> </p>
